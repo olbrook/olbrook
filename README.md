@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olbrook
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... ged.mcguinness@yahoo.co.uk
 
 <!---
 olbrook/olbrook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
